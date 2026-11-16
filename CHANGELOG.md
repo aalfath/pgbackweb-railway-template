@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5.2-railway.2 (2026-11-16)
+
+- README: Deploy on Railway button linking to the published template `pg-back-web`. No change to the app or its configuration.
+
 ## 0.5.2-railway.1 (2026-11-16)
 
 - First release of the Railway template.
