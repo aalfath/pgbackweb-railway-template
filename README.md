@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/pg-back-web?utm_medium=integration&utm_source=button&utm_campaign=pgbackweb)
+
 # PG Back Web on Railway
 
 A Railway template for [PG Back Web](https://github.com/eduardolat/pgbackweb) (now being renamed UFO Backup by its author): scheduled PostgreSQL backups with a web interface, to a local volume or to S3-compatible storage.
